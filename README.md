@@ -1,6 +1,7 @@
 # Gitstat Mini
 
 Very, very basic tool to get a few statistics from a git repo.
+Please be sure to have Ruby installed (>= 2.6).
 Use the first argument to give a time period for "[since](https://www.git-scm.com/docs/git-log#_commit_limiting)":
 
 ```bash
