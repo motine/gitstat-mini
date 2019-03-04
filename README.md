@@ -6,7 +6,7 @@ Use the first argument to give a time period for "[since](https://www.git-scm.co
 
 ```bash
 cd MY_REPO
-./gitstat.rb 4 weeks ago
+PATH_TO_THIS_REPO/gitstat.rb 4 weeks ago
 # =>
 #   Manfred Tester                        16 commits   1461+    239-     85 files
 #   Silke Musterfrau                      87 commits   2837+   1747-    379 files
